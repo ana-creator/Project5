@@ -401,21 +401,21 @@ header a:hover {
   cursor: pointer;
 }
 
-#mentions {
+#legal {
   text-align: justify;
   margin: 20px;
 }
 
-#mentions a {
+#legal a {
   color: blue;
   text-decoration: underline;
 }
 
-#mentions p {
+#legal p {
   font-weight: bold;
 }
 
-#mentions h1 {
+#legal h1 {
   font-size: 2rem;
   padding: 20px;
 }
